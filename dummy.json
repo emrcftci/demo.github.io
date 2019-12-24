@@ -54,6 +54,60 @@
             "intensity": "2.0",
             "lat": "39.0318",
             "long": "27.7937"
+        },
+        {
+            "depth": "28.2 km",
+            "zone": "AKDENIZ",
+            "time": "12:51:21",
+            "date": "17\/12\/2019",
+            "intensity": "2.4",
+            "lat": "36.4043",
+            "long": "28.8352"
+        },
+        {
+            "depth": "13.5 km",
+            "zone": "AMBAR-AYRANCI (KARAMAN)",
+            "time": "08:23:37",
+            "date": "17\/12\/2019",
+            "intensity": "2.4",
+            "lat": "37.4843",
+            "long": "33.6945"
+        },
+        {
+            "depth": "29.4 km",
+            "zone": "AKDENIZ",
+            "time": "02:36:11",
+            "date": "17\/12\/2019",
+            "intensity": "2.2",
+            "lat": "36.5752",
+            "long": "28.3438"
+        },
+        {
+            "depth": "10.9 km",
+            "zone": "AKCAKOY-(BALIKESIR)",
+            "time": "08:32:40",
+            "date": "16\/12\/2019",
+            "intensity": "2.0",
+            "lat": "39.4613",
+            "long": "27.9290"
+        },
+        {
+            "depth": "12.0 km",
+            "zone": "EGE DENIZI",
+            "time": "06:40:37",
+            "date": "16\/12\/2019",
+            "intensity": "2.1",
+            "lat": "39.4282",
+            "long": "25.6743"
+        },
+        {
+            "depth": "10.5 km",
+            "zone": "TUTENLI-AKHISAR (MANISA)",
+            "time": "20:06:53",
+            "date": "15\/12\/2019",
+            "intensity": "2.0",
+            "lat": "39.0318",
+            "long": "27.7937"
         }
     ]
 }
