@@ -1,0 +1,33 @@
+{
+  "data":[
+    {
+      "type":"SPACE",
+      "detail":{
+        "name":"Moon",
+        "distance":384400
+      }
+    },
+    {
+      "type":"CONTINENT",
+      "detail":{
+        "name":"Africa",
+        "population":1216000000
+      }
+    },
+    {
+      "type":"PERSON",
+      "detail":{
+        "name":"Emre",
+        "cells":37200000000000
+      }
+    },
+    {
+      "type":"COMPANY",
+      "detail":{
+        "name":"Apple",
+        "employees":70000
+      }
+    }
+  ],
+  "error":null
+}
