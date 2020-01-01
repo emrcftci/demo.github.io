@@ -1,10 +1,7 @@
 {
-  "data": {
-    "type":"CONTINENT",
-    "detail":{
-      "name":"Africa",
-      "population":1216000000
-    }
-  },
-  "error":null
+ "type":"CONTINENT",
+   "detail":{
+     "name":"Africa",
+     "population":1216000000
+   }
 }
