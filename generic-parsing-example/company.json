@@ -1,0 +1,10 @@
+{
+  "data": {
+    "type":"COMPANY",
+    "detail":{
+      "name":"Apple",
+      "employees":70000
+    }
+  },
+  "error":null
+}

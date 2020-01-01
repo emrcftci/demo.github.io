@@ -1,0 +1,10 @@
+{
+  "data": {
+    "type":"SPACE",
+    "detail":{
+      "name":"Moon",
+      "distance":384400
+    }
+  },
+  "error":null
+}
